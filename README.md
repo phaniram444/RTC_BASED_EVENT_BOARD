@@ -10,9 +10,9 @@ The system also provides:
 
 ---
 
-## 🖼️ Block Diagram  
-*(See project PDF in Docs/ for full diagram)*  
-
+## 🖼️ Block Diagram    
+![Block Diagram](block_diagram.png)
+ 
 ---
 
 ## ⚙️ Hardware Requirements  
