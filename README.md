@@ -39,18 +39,21 @@ The system also provides:
 2. **Admin Mode**  
    - Enter via **external switch interrupt**.  
    - Secure access via **password-protected keypad**.  
-   - Allows user to **edit RTC time** and **select active messages**.  
-## 🚀 Features
+   - Allows user to **edit RTC time** and **select active messages**.
 
-✅ Real-Time Clock driven scheduling
-✅ Scrolling message display on LCD
-✅ Secure Admin Mode (password protected)
-✅ Temperature monitoring with LM35 sensor
-✅ LED status indication (Green = Active, Red = Idle)
+---
+
+## 🚀 Features
+- ✅ Real-Time Clock driven scheduling  
+- ✅ Scrolling message display on LCD  
+- ✅ Secure Admin Mode (password protected)  
+- ✅ Temperature monitoring with LM35 sensor  
+- ✅ LED status indication (Green = Active, Red = Idle)  
+
+---
 
 ## 🎯 Applications
-
-1.College/School notice boards
-2.Office event reminders
-3.Automated lab schedules
-4.Smart home display systems
+- 📌 College/School notice boards  
+- 📌 Office event reminders  
+- 📌 Automated lab schedules  
+- 📌 Smart home display systems  
