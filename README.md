@@ -8,7 +8,7 @@ The system also provides:
 - Ability to edit RTC time and enable/disable messages  
 - Temperature monitoring using **LM35 sensor**  
 
----
+--- 
 
 ## 🖼️ Block Diagram    
 ![Block Diagram](block_diagram.png)
